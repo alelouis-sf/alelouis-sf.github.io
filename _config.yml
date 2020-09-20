@@ -2,16 +2,16 @@
 title:               alelouis
 tagline:             'Science Fiction'
 description:         'Nouvelles de Science Fiction.'
-url:                 http://lanyon.getpoole.com
+url:                 https://alelouis-sf.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Alexis LOUIS
+  url:
+  email:             alelouis.sf@gmail.com
 
 # Gems
 plugins:
