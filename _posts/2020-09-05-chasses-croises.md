@@ -3,12 +3,7 @@ title: Chassés Croisés
 date: 2020-09-05 00:00:00 -00:00
 layout: post
 ---
-<link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
-<style type="text/css">
-  p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 16.0px 'PT Serif'}
-  span.s1 {font-kerning: none}
-  span.Apple-tab-span {white-space:pre}
-</style>
+
 <p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>“Tu verras bien, la dernière fois il n’était pas si tard.”</span></p>
 <p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>“Oui,” enclenchant d’un doigt le mode automatique de son automobile.</span></p>
 <p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>“Je préfère quand même les soirées qui ne tirent pas en longueur, tu sais bien.”<span class="Apple-converted-space"> </span></span></p>

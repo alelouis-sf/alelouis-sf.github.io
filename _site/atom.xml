@@ -4,27 +4,20 @@
  <title>alelouis</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-20T22:10:44+02:00</updated>
+ <updated>2020-09-21T22:36:11+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Alexis LOUIS</name>
+   <email>alelouis.sf@gmail.com</email>
  </author>
 
  
  <entry>
-   <title>Cyber-Ange Gardiens</title>
+   <title>Cyber-Anges Gardiens</title>
    <link href="http://localhost:4000/2020/09/19/cyber-ange-gardiens/"/>
    <updated>2020-09-19T02:00:00+02:00</updated>
    <id>http://localhost:4000/2020/09/19/cyber-ange-gardiens</id>
-   <content type="html">&lt;link href=&quot;https://fonts.googleapis.com/css2?family=PT+Serif&amp;amp;display=swap&quot; rel=&quot;stylesheet&quot; /&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-  p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 14.0px 'Times New Roman'}
-  p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 14.0px 'Times New Roman'; min-height: 16.0px}
-&lt;/style&gt;
-
-&lt;p class=&quot;p1&quot;&gt;&quot;Combien de serveurs ?&quot;&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;p1&quot;&gt;&quot;Combien de serveurs ?&quot;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&quot;14500, la montée en charge se passe bien.&quot;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&quot;Débit de création ?&quot;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&quot;On approche les un million par secondes, à ce rythme on devrait atteindre le milliard d'ici une semaine.&quot;&lt;/p&gt;
@@ -135,15 +128,7 @@
    <link href="http://localhost:4000/2020/09/05/chasses-croises/"/>
    <updated>2020-09-05T02:00:00+02:00</updated>
    <id>http://localhost:4000/2020/09/05/chasses-croises</id>
-   <content type="html">&lt;link href=&quot;https://fonts.googleapis.com/css2?family=PT+Serif&amp;amp;display=swap&quot; rel=&quot;stylesheet&quot; /&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-  p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 16.0px 'PT Serif'}
-  span.s1 {font-kerning: none}
-  span.Apple-tab-span {white-space:pre}
-&lt;/style&gt;
-
-&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;“Tu verras bien, la dernière fois il n’était pas si tard.”&lt;/span&gt;&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;“Tu verras bien, la dernière fois il n’était pas si tard.”&lt;/span&gt;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;“Oui,” enclenchant d’un doigt le mode automatique de son automobile.&lt;/span&gt;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;“Je préfère quand même les soirées qui ne tirent pas en longueur, tu sais bien.”&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;Détournant la tête pour vérifier l’angle mort, Elsa soupira. “Ta patience légendaire, oui je la connais.”&lt;/span&gt;&lt;/p&gt;
@@ -267,15 +252,7 @@
    <link href="http://localhost:4000/2020/05/10/brasier-lunaire/"/>
    <updated>2020-05-10T02:00:00+02:00</updated>
    <id>http://localhost:4000/2020/05/10/brasier-lunaire</id>
-   <content type="html">&lt;link href=&quot;https://fonts.googleapis.com/css2?family=PT+Serif&amp;amp;display=swap&quot; rel=&quot;stylesheet&quot; /&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-  p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 16.0px 'PT Serif'}
-  span.s1 {font-kerning: none}
-  span.Apple-tab-span {white-space:pre}
-&lt;/style&gt;
-
-&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;Arnold ajustait sa lunette, sa vue de 76 ans ne lui permettait pas de bien juger sa mise au point.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+   <content type="html">&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;Arnold ajustait sa lunette, sa vue de 76 ans ne lui permettait pas de bien juger sa mise au point.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;« De toute façon, il verrait ce qu’il y a à  voir, » grommelait-il. « Dans le pire des cas, il n’aurait qu’à regarder la TV ». Ce soir il fallait bien chercher pour trouver un canal qui ne parlait pas de l’événement. S’appuyant à  son balcon, il observait sa rue. Elle grouillait, Arnold jugea qu’il n’avait jamais vu autant de monde au mètre carré, tous agglutinés devant cet écran a LED géant. Il n’en voyait que la moitié, mais croyait bien que c’était la bonne. En face de chez lui, toutes les fenêtres laissaient apparaitre un cylindre de plastique ou de métal, provoquant un léger scintillement assez inhabituel.&lt;/span&gt;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;La plupart des habitudes avaient été bouleversées aujourd’hui, personne n’alla travailler. La journée était entièrement consacrée à  la préparation, cela n’arriverait probablement plus jamais donc il fallait être prêt, enfin c’est ce qu’ils disaient à  la radio. Toute cette agitation lui donna un début de nausée, il ferma la fenêtre. Il restait encore une heure et demie à  attendre, et franchement, vu d’ici tout avait l’air normal. Arnold se demanda si cela pouvait être la plus grande farce de l’histoire, si c’était vrai il y aurait vraiment de quoi rire ! Depuis des semaines, toute sa famille s’était métamorphosée en un mélange d’experts balistiques et d’astronomes déblatérant des prédictions de mécanique céleste comme on juge de la météo le dimanche. Arnold était intrigué, mais sans plus, ce n’était qu’un gros cailloux après tout.&lt;/span&gt;&lt;/p&gt;
 &lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;	&lt;/span&gt;22 heures, 42 minutes et 12 secondes, c’était l’heure d’impact estimée. Depuis midi, la sirène d’alerte incendie de la ville retentissait toutes les 10 minutes, comme si tous les compte à  rebours installés pour l’occasion ne suffisaient pas.&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;

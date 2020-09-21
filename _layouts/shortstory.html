@@ -22,17 +22,8 @@
         </div>
       </div>
 
-      <div class="container content">
-        <h3>Listes chronologique</h3>
-        <ul style="list-style-type:none;">
-        {% for post in site.posts %}
-          <li>
-            <a style="font-family : 'PT Sans';" href="{{ post.url }}">{{ post.title }}</a>
-            <span style="font-size: 16px;">{{ post.date | date_to_long_string}}</span>
-          </li>
-        {% endfor %}
-      </ul>
-      </div>
+    <div class="container content">
+        {{ content }}
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>

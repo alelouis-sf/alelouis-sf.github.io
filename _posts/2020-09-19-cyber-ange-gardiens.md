@@ -1,13 +1,8 @@
 ---
-title: Cyber-Ange Gardiens
+title: Cyber-Anges Gardiens
 date: 2020-09-19 00:00:00 -00:00
 layout: post
 ---
-<link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
-<style type="text/css">
-  p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 14.0px 'Times New Roman'}
-  p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-indent: 18.0px; font: 14.0px 'Times New Roman'; min-height: 16.0px}
-</style>
 
 <p class="p1">"Combien de serveurs ?"</p>
 <p class="p1">"14500, la montée en charge se passe bien."</p>

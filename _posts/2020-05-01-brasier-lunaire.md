@@ -3,12 +3,7 @@ title: Brasier Lunaire
 date: 2020-05-10 00:00:00 -00:00
 layout: post
 ---
-<link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
-<style type="text/css">
-  p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; font: 16.0px 'PT Serif'}
-  span.s1 {font-kerning: none}
-  span.Apple-tab-span {white-space:pre}
-</style>
+
 <p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>Arnold ajustait sa lunette, sa vue de 76 ans ne lui permettait pas de bien juger sa mise au point.<span class="Apple-converted-space"> </span></span></p>
 <p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>« De toute façon, il verrait ce qu’il y a à  voir, » grommelait-il. « Dans le pire des cas, il n’aurait qu’à regarder la TV ». Ce soir il fallait bien chercher pour trouver un canal qui ne parlait pas de l’événement. S’appuyant à  son balcon, il observait sa rue. Elle grouillait, Arnold jugea qu’il n’avait jamais vu autant de monde au mètre carré, tous agglutinés devant cet écran a LED géant. Il n’en voyait que la moitié, mais croyait bien que c’était la bonne. En face de chez lui, toutes les fenêtres laissaient apparaitre un cylindre de plastique ou de métal, provoquant un léger scintillement assez inhabituel.</span></p>
 <p class="p1"><span class="s1">La plupart des habitudes avaient été bouleversées aujourd’hui, personne n’alla travailler. La journée était entièrement consacrée à  la préparation, cela n’arriverait probablement plus jamais donc il fallait être prêt, enfin c’est ce qu’ils disaient à  la radio. Toute cette agitation lui donna un début de nausée, il ferma la fenêtre. Il restait encore une heure et demie à  attendre, et franchement, vu d’ici tout avait l’air normal. Arnold se demanda si cela pouvait être la plus grande farce de l’histoire, si c’était vrai il y aurait vraiment de quoi rire ! Depuis des semaines, toute sa famille s’était métamorphosée en un mélange d’experts balistiques et d’astronomes déblatérant des prédictions de mécanique céleste comme on juge de la météo le dimanche. Arnold était intrigué, mais sans plus, ce n’était qu’un gros cailloux après tout.</span></p>
